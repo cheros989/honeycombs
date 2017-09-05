@@ -1,0 +1,19 @@
+{
+    "name": "roman-pavliukov/honeycombs",
+    "description": "Elastic CRUD & CMS for laravel",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Roman Pavliukov",
+            "email": "roman.pavliukov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RomanPavliukov\\Honeycombs\\": ""
+        }
+    }
+}
